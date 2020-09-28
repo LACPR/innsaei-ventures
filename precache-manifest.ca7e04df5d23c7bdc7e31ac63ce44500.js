@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f9dd94ecbc0fecb23c4b54c4f58a59f",
+    "revision": "603791be94f3ba0ff88e7aab2a79a190",
     "url": "/innsaei-ventures/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/innsaei-ventures/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "d9df058703fe96adf1f4",
+    "revision": "ae435102c57cec35a792",
     "url": "/innsaei-ventures/static/css/main.7876eecd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/innsaei-ventures/static/js/2.743e0a7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9df058703fe96adf1f4",
-    "url": "/innsaei-ventures/static/js/main.ea3ce4d4.chunk.js"
+    "revision": "ae435102c57cec35a792",
+    "url": "/innsaei-ventures/static/js/main.3c3dbb97.chunk.js"
   },
   {
     "revision": "f42d5dc7c52ff1409782",

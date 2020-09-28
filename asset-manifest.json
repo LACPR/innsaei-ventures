@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/innsaei-ventures/static/css/main.7876eecd.chunk.css",
-    "main.js": "/innsaei-ventures/static/js/main.ea3ce4d4.chunk.js",
-    "main.js.map": "/innsaei-ventures/static/js/main.ea3ce4d4.chunk.js.map",
+    "main.js": "/innsaei-ventures/static/js/main.3c3dbb97.chunk.js",
+    "main.js.map": "/innsaei-ventures/static/js/main.3c3dbb97.chunk.js.map",
     "runtime-main.js": "/innsaei-ventures/static/js/runtime-main.9425142e.js",
     "runtime-main.js.map": "/innsaei-ventures/static/js/runtime-main.9425142e.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/innsaei-ventures/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.743e0a7f.chunk.js": "/innsaei-ventures/static/js/2.743e0a7f.chunk.js",
     "static/js/2.743e0a7f.chunk.js.map": "/innsaei-ventures/static/js/2.743e0a7f.chunk.js.map",
     "index.html": "/innsaei-ventures/index.html",
-    "precache-manifest.0af97ea00152afd1f12b6fc6474a952a.js": "/innsaei-ventures/precache-manifest.0af97ea00152afd1f12b6fc6474a952a.js",
+    "precache-manifest.ca7e04df5d23c7bdc7e31ac63ce44500.js": "/innsaei-ventures/precache-manifest.ca7e04df5d23c7bdc7e31ac63ce44500.js",
     "service-worker.js": "/innsaei-ventures/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/innsaei-ventures/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.7876eecd.chunk.css.map": "/innsaei-ventures/static/css/main.7876eecd.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.743e0a7f.chunk.js",
     "static/css/main.7876eecd.chunk.css",
-    "static/js/main.ea3ce4d4.chunk.js"
+    "static/js/main.3c3dbb97.chunk.js"
   ]
 }
