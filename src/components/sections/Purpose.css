@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+.purpose {
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+/* .image-container {
+    padding: 100px 30px;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 450px;
+}
+
+.image-stack {
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.image-stack_item-bottom {
+    grid-column: 4 / -1;
+    grid-row: 1;
+}
+
+.image-stack_item-top {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 20%;
+    z-index: 1;
+} */
+
+img {
+    width: 100%;
+    display: block;
+}
+
+.images-container {
+    padding: 100px 30px;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 450px;
+}
+
+/* .image-stack {
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(24, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+} */
+
+.images-stack_item-bottom {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+    width: 280px;
+    height: 320px;
+    z-index: 1;
+}
+
+.images-stack_item-top {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    z-index: 2;
+    left: 250px;
+    top: 150px;
+} 
+
+.purpose-heading {
+    font-family: "Vidaloka";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #101820;
+}
+
+.purpose-details {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #101820;
+}

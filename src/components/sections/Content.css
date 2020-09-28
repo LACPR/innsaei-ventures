@@ -1,0 +1,33 @@
+.content {
+    height: 200px;
+    align-content: center;
+}
+
+.content-icons {
+    width: 26px;
+    height: 26px;
+}
+
+.content-heading {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #101820;
+}
+
+.content-details {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: #101820;
+}
+
+.content-info {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #101820;
+}

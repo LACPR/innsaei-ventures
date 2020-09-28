@@ -1,0 +1,47 @@
+.mantra {
+    height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/mantra.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: absolute; 
+    margin-top: 50px;
+}
+
+#content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+img {
+    z-index: 1;
+}
+
+.our-mantra {
+    font-family: "Vidaloka";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 62px;
+    color: #FFFFFF;
+}
+
+.equation {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #00BACB;
+}
+
+.mantra-details {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.mantra-details em {
+    color: #00BACB;
+    font-style: normal;
+}
+

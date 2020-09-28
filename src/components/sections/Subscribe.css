@@ -1,0 +1,71 @@
+.subscribe {
+    background: #F0F7FA;
+    border-radius: 5px;
+    height: 300px;
+}
+
+.container {
+    margin: auto;
+}
+
+.insights {
+    margin: 50px auto;
+    text-align: center;
+}
+
+.subscribe-heading {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #101820;
+}
+
+.subscribe-content {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #00BACB;
+}
+
+.sub-form {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.email-form {
+    background: #FFFFFF;
+    border: 2px solid #E0ECF1;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 400px;
+}
+
+.btn {
+    background-color: #00BACB;
+    border-radius: 5px;
+    margin-left: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+.subscribe-btn {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#contact {
+    width: 20px;
+    height: 18px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
