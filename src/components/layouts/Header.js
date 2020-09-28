@@ -6,7 +6,7 @@ const Header = () => {
     <header id="header">
       <div className="container">
         <div className="header-logo d-flex align-items-start justify-content-center">
-          <img id="logo" src="/innsaei-venturesimages/logo.png" alt="" />
+          <img id="logo" src="/innsaei-ventures/images/logo.png" alt="" />
         </div>
         <div className="row hero-box align-items-center justify-content-start">
           <div className="col-7">
