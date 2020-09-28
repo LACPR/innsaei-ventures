@@ -47,7 +47,6 @@ const Footer = () => (
               <h4 className="footer-heading">Insights</h4>
             </div>
             <div>
-              <h4></h4>
             </div>
             <div className="icons">
               <ul>

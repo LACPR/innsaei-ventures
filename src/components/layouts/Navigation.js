@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { withRouter } from 'react-router-dom'
-import { NavHashLink } from 'react-router-hash-link'
+// import { NavHashLink } from 'react-router-hash-link'
 import './Navigation.css'
 import { menu } from './Menu'
 
@@ -36,8 +36,8 @@ export class Navigation extends Component {
     const navStyle = {
       background:`rgba(36,36,36,${this.state.transperancy})`,
     }
-    const fcScroll = el => el.scrollIntoView({ behavior: 'smooth', block: 'start' })
-    const fcActive = id => this.state.hash === id ? 'active':''
+    /* const fcScroll = el => el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    const fcActive = id => this.state.hash === id ? 'active':'' */
     return (
       <nav style={navStyle}>
         <p className="nav-items">About Innsaei</p>
