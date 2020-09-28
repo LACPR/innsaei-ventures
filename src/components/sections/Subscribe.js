@@ -16,7 +16,7 @@ const Subscribe = () => (
                                 <Form.Control type="email" placeholder="Enter your E-mail"></Form.Control>
                             </Form.Group>
                             <Button className="btn align-items-center justify-content-center" type="submit"><h4 className="subscribe-btn">Subscribe</h4></Button>
-                            <img id="contact" src="/images/contact.png" alt="" />
+                            <img id="contact" src="/innsaei-ventures/images/contact.png" alt="" />
                             <p>Contact Us</p>
                         </Form>
                     </div>

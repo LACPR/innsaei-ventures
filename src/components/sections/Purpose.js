@@ -9,10 +9,10 @@ const Purpose = () => (
                     <div className="images-container">
                         <div className="images-stack">
                             <div className="images-stack_item images-stack_item-top">
-                                <img src="/images/purpose-up.png" id="top-image" alt="" />
+                                <img src="/innsaei-ventures/images/purpose-up.png" id="top-image" alt="" />
                             </div>
                             <div className="images-stack_item images-stack_item-bottom">
-                                <img src="/images/purpose-bg.png" id="bottom-image" alt="" />
+                                <img src="/innsaei-ventures/images/purpose-bg.png" id="bottom-image" alt="" />
                             </div>
                         </div>
                     </div>

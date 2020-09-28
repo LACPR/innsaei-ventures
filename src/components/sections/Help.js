@@ -22,7 +22,7 @@ const Help = () => (
                             </div>
                         </div>
                         <div className="col-3">
-                            <img id="askria-logo" src="/images/logo-askria.png" alt="" />
+                            <img id="askria-logo" src="/innsaei-ventures/images/logo-askria.png" alt="" />
                         </div>    
                     </div> 
                 </div>

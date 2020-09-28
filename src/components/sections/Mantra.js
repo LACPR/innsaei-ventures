@@ -14,7 +14,7 @@ const Mantra = () => (
                         <p className="mantra-details">We focus on profitability, data and impact, to have the eye to recognize promising ideas and connect to our intuition to spot the underlying variables playing a role in the venture ecosystem.</p>
                     </div>
                     <div className="col-5">
-                        <img id="mantra-img" className="align-items-center" src="/images/mantra-graphic.png" alt="" />
+                        <img id="mantra-img" className="align-items-center" src="/innsaei-ventures/images/mantra-graphic.png" alt="" />
                     </div>
                 </div>
             </div>

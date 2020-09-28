@@ -9,10 +9,10 @@ const Sector = () => (
                 <div className="col-5 align-items-center">
                     <div className="image-stack">
                         <div className="image-stack_item image-stack_item-top">
-                            <img src="/images/phone1.png" id="top-image" alt="" />
+                            <img src="/innsaei-ventures/images/phone1.png" id="top-image" alt="" />
                         </div>
                         <div className="image-stack_item image-stack_item-bottom">
-                            <img src="/images/sector-bg.png" id="bottom-image" alt="" />
+                            <img src="/innsaei-ventures/images/sector-bg.png" id="bottom-image" alt="" />
                         </div>
                     </div>
                 </div>

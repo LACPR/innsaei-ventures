@@ -7,7 +7,7 @@ const Footer = () => (
       <div className="row align-items-center justify-content-start">
         <div className="col-2">
           <div id="item1">
-            <img src="/images/logo2.png" alt="" />
+            <img src="/innsaei-ventures/images/logo2.png" alt="" />
           </div>
           <div id="item2">
             <h5 className="touch">Get in touch</h5>
@@ -50,9 +50,9 @@ const Footer = () => (
             </div>
             <div className="icons">
               <ul>
-                <li><img className="instagram" src="/images/instagram.png" alt="" /></li>
-                <li><img className="twitter" src="/images/twitter.png" alt="" /></li>
-                <li><img className="linkedin" src="/images/linkedin.png" alt="" /></li>
+                <li><img className="instagram" src="/innsaei-ventures/images/instagram.png" alt="" /></li>
+                <li><img className="twitter" src="/innsaei-ventures/images/twitter.png" alt="" /></li>
+                <li><img className="linkedin" src="/innsaei-ventures/images/linkedin.png" alt="" /></li>
               </ul>
             </div>           
           </div>
